@@ -23,7 +23,7 @@ Upload an invoice image or document and get clean, structured data back automati
 2. cd invoice-ai
 3. pip install -r requirements.txt
 4. Add your Gemini API key to a .env file: GEMINI_API_KEY=your_key_here
-5. python main.py
+5. python app.py
 
 ## Future Improvements
 - Export extracted data to Excel/CSV
